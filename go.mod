@@ -1,4 +1,4 @@
-module telepeek
+module github.com/xenophonsec/telepeek
 
 go 1.24.4
 
